@@ -4,20 +4,44 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:ital,wght@0,300;1,700&display=swap" rel="stylesheet">
     <title>MyToDoList</title>
 </head>
+</head>
 <body>
-    <div class="background"></div>
+    <!--CABEÇALHO-->
+    <div class="navTask">
+        <nav class="navigation">
+            <h1 id="logo">ToDo<span>List</span></h1>
+        </nav>
+    </div>
+    <!--ADICIONAR TAREFAS-->
+    <div class="areaTask"></div>
     <div class="container">
         <div class="task">
-            <h1>ToDoList</h1>
-            <input id="inTodo" placeholder="Digite uma nova tarefa" type="text">
+            Tarefa: <input id="inTodo" placeholder="Digite uma nova tarefa" type="text">
+            Tipo: <select id="taskOptions">
+                <option id="option"></option>
+                <option id="option">Estudos</option>
+                <option id="option">Saúde</option>
+                <option id="option">Trabalho</option>
+            </select>
             <button onclick="add()">+</button>
         </div>
+        <!--FORMULÁRIO DE TAREFAS-->
+        <tabel class="tabelTask">
+            <tr>
+                <td>Tarefa: </td>
+                <th>Tipo:</th>
+            </tr>
+        </tabel>
         <div class="text">
 
         </div>
     </div>
+    <!--JAVA SCRIPT-->
     <script src="script.js"></script>
 </body>
 </html>
