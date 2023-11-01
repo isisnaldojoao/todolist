@@ -25,7 +25,9 @@ Link do repositório do test [Teste automatizado da Todolist](https://github.com
 ## 🎃Referências
 Material utilizado para a criação da TodoList
 - https://github.com/shaikhsufyan/Basic-To-Advance-JavaScript-Project/tree/main/To%20Do%20List
+
 Material utilizado para a criação dos testes
+
 - [Guia rápido de testes no front-end](https://dev.to/thayseonofrio/guia-rapido-de-testes-no-front-end-2lpc)
 - [Cypress Direto ao Ponto](https://youtube.com/playlist?list=PLnUo-Rbc3jjy314Ik21RJvYaCoPRHyG9O&si=BuCXPoFWclYhJ2jj)
 - [Instalando o Cypress sem mistérios](https://medium.com/gruponewway/instalando-o-cypress-sem-mist%C3%A9rios-6d6ee66b78d8)
