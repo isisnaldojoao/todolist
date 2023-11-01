@@ -15,7 +15,7 @@ Melhorias:
   
 Pontos a respeito do teste automatizado:
 
-- Foi adotado o cypress como framework por sugestão e ser fiel ao objetivo principal, criar um teste E2E
+- Foi adotado o cypress como framework por sugestão além de ser fiel ao objetivo principal, criar um teste E2E
 - Foram realizados três testes para válidar a aplicação web, incluindo a criação e exclusão de tarefas
 - Foi possível mapear com sucesso a jornada do usuário durante os testes.
   
