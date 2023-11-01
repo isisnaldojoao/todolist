@@ -12,10 +12,13 @@ Melhorias: Foi adicionado um botão de seleção para diferenciar as tarefas, em
 ## Terceira versão
 Melhorias:
 - Os comentários foram traduzidos para o inglês
+  
 Pontos a respeito do teste automatizado:
+
 - Foi adotado o cypress por ser mais simples e fiel ao objetivo principal, criar um teste E2E
 - Foram realizados três testes para válidar a aplicação web, incluindo a criação e exclusão de tarefas
 - Foi possível mapear com sucesso a jornada do usuário durante os testes.
+  
 Link do repositório do test [Teste automatizado da Todolist](https://github.com/isisnaldojoao/todolist-test)
 
 
