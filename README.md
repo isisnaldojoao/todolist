@@ -19,7 +19,6 @@ Pontos a respeito do teste automatizado:
 - Foram realizados três testes para válidar a aplicação web, incluindo a criação e exclusão de tarefas
 - Foi possível mapear com sucesso a jornada do usuário durante os testes.
   
-Link do repositório do test [Teste automatizado da Todolist](https://github.com/isisnaldojoao/todolist-test)
 
 
 ## 🎃Referências
